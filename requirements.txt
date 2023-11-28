@@ -1,0 +1,4 @@
+aiohttp
+more-itertools
+asyncpg
+sqlalchemy
